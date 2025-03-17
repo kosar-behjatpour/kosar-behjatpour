@@ -1,6 +1,7 @@
+![logo](https://github.com/kosar-behjatpour/kosar-behjatpour/blob/main/1702761831620.jpeg?raw=true)
 <h1 align="center">Hi 👋, I'm Kosar</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-<img align="right" alt="Kosar" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif">
+<img align="right" width="400px" alt="Kosar" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kosar-behjatpour&label=Profile%20views&color=0e75b6&style=flat" alt="kosar-behjatpour" /> </p>
 
